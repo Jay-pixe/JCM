@@ -22,10 +22,10 @@ header {
 }
 
 
-.logo h1 {
-    color: white;
-    margin: 0;
+.logo img {
+    width: 120px; /* Make sure the image does not exceed the container width */
 }
+
 
 nav {
     display: flex;
