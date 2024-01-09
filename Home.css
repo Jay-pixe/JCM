@@ -152,6 +152,9 @@ nav ul ul li {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    font-size: 40px; /* changes the font */
+    font-weight: bold; /* make it bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Apply shadow effect */
     z-index: 2;
 }
 
